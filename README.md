@@ -10,4 +10,5 @@ To edit the move, undo & redo command go to the end of the index.ts file to writ
 Run Command 
 
 >> tsc                      (to build the file)
+
 >> node .\index.js          (to run the js file)
